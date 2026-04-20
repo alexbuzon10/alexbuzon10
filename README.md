@@ -8,6 +8,10 @@ _Córdoba, Andalucía, España_.
 
 Soy una persona apasionada por la informática y por los matemáticas con ganas siempre de aprender conocimientos y habilidades nuevas. 
 
+## Mi actividad
+
+![Estadisticas](https://github-readme-stats.vercel.app/api?username=alexbuzon10&show_icons=true&theme=highcontrast) 
+
 ## Stack actual 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -25,3 +29,7 @@ Soy una persona apasionada por la informática y por los matemáticas con ganas 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Contacto 
+
+📩 **Email:** alexbuzon10@gmail.com 
