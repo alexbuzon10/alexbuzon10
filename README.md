@@ -1,6 +1,6 @@
 # Alejandro Buzón García 
 
-Estudiante de 1º de Ingeniería Informática en la *Universidad de córdoba (Uco)*.
+Estudiante de 1º de Ingeniería Informática en la **Universidad de córdoba (Uco)**.
 
 _Córdoba, Andalucía, España_.
 
