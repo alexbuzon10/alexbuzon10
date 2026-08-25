@@ -1,16 +1,12 @@
 # Alejandro Buzón García 
 
-Estudiante de 1º de Ingeniería Informática en la **Universidad de córdoba (Uco)**.
+Estudiante de 1º de Ingeniería Informática en la **Universidad de córdoba (UCO)**.
 
 _Córdoba, Andalucía, España_.
 
 ## Acerca de mí
 
 Soy una persona apasionada por la informática y por los matemáticas con ganas siempre de aprender conocimientos y habilidades nuevas. 
-
-## Mi actividad
-
-![Estadisticas](https://github-readme-stats.vercel.app/api?username=alexbuzon10&show_icons=true&theme=highcontrast) 
 
 ## Stack actual 
 
